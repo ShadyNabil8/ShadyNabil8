@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ShadyNabil8/ShadyNabil8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hey! 👋
+I'm Shady, an embedded software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 University | Zagazig University- Department of Computer and Systems Engineering – 4
+th year
+
+
+## Skills
+- Programming skills (C and python).
+- Problem solving.
+- Algorithms and data structures.
+- Real-time operating systems (RTOS) concepts and computer architecture.
+- Microcontrollers (AVR and PIC).
+- Communication protocols (SPI, I2C, UART).
+- Hardware knowledge (electronic circuits, digital electronics, and      microcontroller interfacing).
+- Debugging and troubleshooting skills.
+- Familiarity with agile development methodologies.
+- Basics of the software development life cycle (SDLC).
+- Communication skills (English).
+-  
+
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/shady-nabil-6823b323a/)
