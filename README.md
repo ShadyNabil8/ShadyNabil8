@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Shady Nabil 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Engineering. I love building projects that solve real-world problems and enhance user experience. Below you can find more about my work, projects, and how to get in touch with me.
