@@ -1,6 +1,6 @@
 # Hi there, I'm Shady Nabil 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Engineering. I love building projects that solve real-world problems and enhance user experience. Below you can find more about my work, projects, and how to get in touch with me.
+Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Engineering. I love building projects that solve real-world problems and enhance user experience. I'm actively looking for opportunities as a ***Full Stack MERN Developer*** or a ***Backend Node.js Developer***. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ## 🚀 About Me
 
