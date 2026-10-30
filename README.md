@@ -1,74 +1,49 @@
-# Hi there, I'm Shady Nabil 👋
+# Shady Nabil
 
-Welcome to my GitHub profile! I'm a passionate software developer with a background in Computer Engineering. I love building projects that solve real-world problems and enhance user experience. I'm actively looking for opportunities as a ***Full Stack MERN Developer*** or a ***Backend Node.js Developer***. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+**Full Stack Engineer** at Intlaq · Mansoura, Egypt
 
-## 🚀 About Me
+I build multi-tenant payment and finance systems used by **41 Egyptian universities and institutes**, and I lead the team behind a resource-booking platform.
 
-- 📚 **Education**: Bachelor in Computer Engineering from Zagazig University, Egypt (Graduated: May 2023)
-- 🏢 **Current Role**: Robotics Instructor at Electronics Valley Academy (Aug 2023 – Feb 2024)
-- 🧠 **Skills**: JavaScript, HTML/CSS, C/C++, C#, Python, Bash, Node.js, React.js, MongoDB
-- 🛠️ **Developer Tools**: Git/Github, VS Code, Visual Studio
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?logo=vuedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 
-## 💼 Experience
+## Work at Intlaq (Nov 2024 – present)
 
-### Robotics Instructor
-**Electronics Valley Academy, Remote**  
-_Aug 2023 – Feb 2024_  
-- Created and taught content on Arduino programming.
+- **E-Payment Hub**: main developer (~80% of commits) of the payment middleware that links 9 online gateways and 4 POS networks to student and treasury systems. Strategy-pattern adapters, a background reconciler for lost webhooks, idempotent payment confirmation, RabbitMQ consumers, and CI/CD to 19 production servers with health checks and automatic rollback.
+- **Treasury System**: top backend contributor; one database per university, automatic double-entry journal entries, reporting with exact decimal maths, and ERP integration. Serves 9 universities.
+- **Resources Management System**: team lead of 5; a booking engine that blocks double-booking with PostgreSQL exclusion constraints, an all-or-nothing bulk booking API, Arabic/English UI, and ~295 tests.
 
-## 🌟 Projects
+## Open source
 
-### RPA-Robot (Graduation Project — Excellent)
-**Tech Stack**: C#, Visual Studio, Git  
-_Sep 2022 – May 2023_  
-- Developed workflows, communication with RPA orchestrator, log data transmission, and traceability matrix.
-- Authored comprehensive documentation.
+- **[Termix](https://github.com/Termix-SSH/Termix)** (self-hosted server management, 15k+ stars)
+  - [Merged PR #1607](https://github.com/Termix-SSH/Termix/pull/1607): fixed bulk host import duplicating hosts, with regression tests.
+  - **[Command Editor](https://github.com/ShadyNabil8/termix-plugin-command-editor)** plugin, in Termix's community store: edit long commands in a real code editor, even over SSH.
+  - [Open PR](https://github.com/Termix-SSH/Plugin-SSH-Terminal/pull/47) to the SSH Terminal plugin: cursor-accurate input access for plugins and local-terminal support.
 
-### Chat App
-**Tech Stack**: Node.js/Express, React.js, MongoDB, Git  
-_Jul 2024 - present_  
-- Implemented friend addition feature and user authentication with JWT.
+## Projects
 
-### Electronics Store
-**Tech Stack**: Node.js/Express, React.js, MongoDB, Git  
-_May 2024 - Jul 2024_  
-- Created a responsive frontend, developed an admin panel, and built a reliable backend.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Twenty](https://github.com/ShadyNabil8/Twenty) | Desktop app that enforces the 20-20-20 eye-break rule on Windows, macOS and Linux | Electron, TypeScript |
+| [sp2redmine](https://github.com/ShadyNabil8/sp2redmine) | Logs Super Productivity time to Redmine, one entry per issue per day | Node.js |
+| [Exam Designer](https://github.com/ShadyNabil8/exam-designer-system) ([demo](https://exam-designer-system-x5it.vercel.app/about)) | Genetic-algorithm exam generator | Node.js, React, MongoDB, Jest |
+| [RPA Robot](https://github.com/ShadyNabil8/RPA-Robot) | Graduation project (Excellent): runs workflows from an RPA orchestrator | C# |
 
-### Book Library
-**Tech Stack**: Node.js/Express, MongoDB, Git  
-_May 2024 – May 2024_  
-- Built models for Book, Book Instance, Genre, and Author.
-- Developed CRUD routes and user authentication with Passport.js.
+<details>
+<summary>Earlier projects</summary>
 
-### Minisweeper and Guess the Word Games
-**Tech Stack**: HTML, CSS, JavaScript  
-_Apr 2024 – Apr 2024_  
-- Applied core concepts of HTML, CSS, and JavaScript.
+- [Chat App](https://github.com/ShadyNabil8/chat-app-MERN): MERN chat with friends and JWT auth
+- [Electronics Store](https://github.com/ShadyNabil8/Store-React.js-Node.js): store with an admin panel
+- [Local Library](https://github.com/ShadyNabil8/local_library_NodeJS): Express + MongoDB CRUD with Passport.js
+- [Minesweeper](https://github.com/ShadyNabil8/minisweeper): HTML, CSS, JavaScript
+- [Chess](https://github.com/ShadyNabil8/chess_game): C++ and wxWidgets
+- Embedded C: [AUTOSAR-based drivers](https://github.com/ShadyNabil8/AUTOSAR-based-drivers), [ATmega32 drivers](https://github.com/ShadyNabil8/atmega32_Drivers), [PIC18F4620 drivers](https://github.com/ShadyNabil8/PIC18f4620_Drivers)
 
-### Chess Game
-**Tech Stack**: C++, Git, CMake  
-_Dec 2023 – Dec 2023_  
-- Utilized OOP concepts, modern C++ features, and the wxWidgets library.
+</details>
 
-## 📫 How to reach me
+## Education
 
-- Email: [shadyngheith@gmail.com](mailto:shadyngheith@gmail.com)
-- LinkedIn: [linkedin.com/in/shady-nabil](https://www.linkedin.com/in/shady-nabil-6823b323a/)
-- GitHub: [github.com/ShadyNabil8](https://github.com/ShadyNabil8)
+B.Sc. Computer Engineering, Zagazig University (2023)
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+## Contact
 
-<!--
-**ShadyNabil8/ShadyNabil8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[shadyn.dev@gmail.com](mailto:shadyn.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shady-nabil-6823b323a)
